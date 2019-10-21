@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\bin\Debug\netcoreapp2.1\celsius_fahrenheit.deps.json
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\bin\Debug\netcoreapp2.1\celsius_fahrenheit.runtimeconfig.json
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\bin\Debug\netcoreapp2.1\celsius_fahrenheit.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\bin\Debug\netcoreapp2.1\celsius_fahrenheit.dll
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\bin\Debug\netcoreapp2.1\celsius_fahrenheit.pdb
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\obj\Debug\netcoreapp2.1\celsius_fahrenheit.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\obj\Debug\netcoreapp2.1\celsius_fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\obj\Debug\netcoreapp2.1\celsius_fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\obj\Debug\netcoreapp2.1\celsius_fahrenheit.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\obj\Debug\netcoreapp2.1\celsius_fahrenheit.dll
+C:\Users\Sirje\Desktop\celsius_fahrenheit\celsius_fahrenheit\obj\Debug\netcoreapp2.1\celsius_fahrenheit.pdb
